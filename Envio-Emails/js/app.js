@@ -132,7 +132,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
       comprobarEmail();
 
-
       // Alerta 
 
       const alertaExito = document.createElement('P');
