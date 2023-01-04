@@ -1,5 +1,0 @@
-1. Iniciar el proyecto con 'npm init --yes' [Crea el archivo Package.json que contiene las configuraciones básicas de nuestro proyecto]
-2. Instalamos los recursos para utilizar ECMA Script 6 utilizando Babel. Babel se compone en varias partes traduce código y nosotros debemos indicarle para qué entorno va a traducir el código, en nuestro caso para node [@babel/node].
-Y también debemos instalar el módulo en sí [@babel/core] y también otros módulos como [@babel/preset-env] para utilizar sintaxis moderna dentro de jS y también [@babel/cli] y  agregamos el -D para decirle que es un entorno de Desarrollo 
-
-'npm i @babel/node @babel/core @babel/preset-env @babel/cli -D'
