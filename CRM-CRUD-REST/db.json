@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "nombre": "Pedro NUEVO!",
+      "email": "correo3@correo.com",
+      "telefono": "123456",
+      "empresa": "Walmart",
+      "id": 25
+    },
+    {
+      "nombre": "Juan",
+      "email": "email@email.com",
+      "telefono": "4564565",
+      "empresa": "Codigo",
+      "id": 27
+    },
+    {
+      "nombre": "Andrea Seong",
+      "email": "andrea@email.com",
+      "telefono": "88888888",
+      "empresa": "Kalea",
+      "id": 28
+    },
+    {
+      "nombre": "Miguel García",
+      "email": "correo@correo.net",
+      "telefono": "4564565",
+      "empresa": "Click",
+      "id": 29
+    }
+  ]
+}
